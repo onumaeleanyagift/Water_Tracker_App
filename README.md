@@ -27,7 +27,7 @@ A simple interactive app that helps track your daily water intake. Based on the 
 
 ## 🖼️ Screenshot
 
-_(![alt text](image.png))_!
+_![alt text](image.png)!_
 
 ## 📦 How to Use
 
